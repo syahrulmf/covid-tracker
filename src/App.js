@@ -20,9 +20,6 @@ function App() {
 
     setData(fetchedData);
     setCountry(country);
-
-    console.log(country);
-    console.log(fetchData);
   };
 
   return (
